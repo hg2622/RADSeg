@@ -12,9 +12,11 @@
   <a href="https://theairlab.org/team/wenshan/"><strong>Wenshan Wang</strong></a>
   ·
   <a href="https://theairlab.org/team/sebastian/"><strong>Sebastian Scherer</strong></a>
+  </br>
+  <sub><i>*Equal Contribution</i></sub>
 </p>
-
   <h3 align="center"><a href="https://arxiv.org/abs/2511.19704">Paper</a> | <a href="https://radseg-ovss.github.io/">Project Page</a> | <a href="https://huggingface.co/spaces/theairlabcmu/RADSeg">Demo</a></h3>
+  
   <div align="center"></div>
 
 ![RADSeg overview](assets/abstract_figure.jpg)
