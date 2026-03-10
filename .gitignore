@@ -7,4 +7,53 @@ __pycache__
 /results
 .vscode
 .DS_Store
+.gradio/
+
+# Python/env caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Model checkpoints and weights
+checkpoints/
+*.ckpt
+*.pth
+*.pt
+*.bin
+*.safetensors
+
+# Generated visualization/output folders
+radseg_prompt_vis/
+outputs/
+runs/
+logs/
+
+# Large media and data artifacts
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.webp
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.zip
+*.tar
+*.gz
+*.7z
 work_logs
